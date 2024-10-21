@@ -1,7 +1,0 @@
-﻿// Copyright (c) 2024 Meta Platforms, Inc. and affiliates.
-
-#pragma once
-namespace OculusXRTelemetry
-{
-	void SpawnNotification();
-}
